@@ -7,7 +7,7 @@ import Header from "@/components/header";
 const urbanist = Urbanist({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "LeiteDev Landing Page",
+  title: "LeiteDev Portfolio",
   description: "Landing page made by LeiteDev",
 };
 
